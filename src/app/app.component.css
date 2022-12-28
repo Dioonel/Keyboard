@@ -5,7 +5,27 @@
 h1{
   text-align: center;
   padding-top: 30px;
-  padding-bottom: 20px;
+  padding-bottom: 10px;
+}
+
+h2{
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+button{
+  background-color: rgb(7, 7, 56);
+  color: white;
+  font-weight: 700;
+  border: none;
+  padding: 10px 20px;
+  margin-left: 15px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover{
+  background-color: rgb(43, 43, 129);
 }
 
 .container{

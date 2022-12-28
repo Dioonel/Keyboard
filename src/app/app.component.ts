@@ -1,5 +1,4 @@
-import { LowerCasePipe } from '@angular/common';
-import { Component, ComponentFactoryResolver, OnInit } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 
 @Component({
   selector: 'app-root',
